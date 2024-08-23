@@ -51,7 +51,7 @@ class DefaultFirebaseOptions {
 
   static const FirebaseOptions android = FirebaseOptions(
     apiKey: 'AIzaSyAW9Z0p2JdFDKKWSmKlQPgJ7pKDlcrkA1M',
-    appId: '1:1059340842896:android:c6a162761576b31704e515',
+    appId: '1:1059340842896:android:0d4b9bfd9b15ce8d04e515',
     messagingSenderId: '1059340842896',
     projectId: 'habit-tracker-64cd5',
     storageBucket: 'habit-tracker-64cd5.appspot.com',
@@ -65,4 +65,5 @@ class DefaultFirebaseOptions {
     storageBucket: 'habit-tracker-64cd5.appspot.com',
     iosBundleId: 'com.example.habitTracker',
   );
+
 }
